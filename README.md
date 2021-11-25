@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repo](https://github.com/gmcodes20/front-end-mentor-huddle-ch)
+- Live Site URL: [ live site ](https://gmcodes20.github.io/front-end-mentor-huddle-ch/)
 
 ## My process
 
